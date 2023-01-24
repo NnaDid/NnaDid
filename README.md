@@ -1,5 +1,5 @@
 # Hi, I am DIDIGWU NNAEMEKA CHRISTIAN -@NnaDid
-#### Fullstack Web and Mobile Enginer (REACT, REACT-NATIVE, JS, JQUERY, HTML, CSS, PHP,PYTHON,)
+#### Fullstack Web and Mobile Engineer (REACT, REACT-NATIVE, JS, JQUERY, HTML, CSS, PHP,PYTHON,)
 # 🙋‍♂️ About Me
 - 👀 I’m interested in:  web3, blockchain and metaverse
 - 🌱 I’m currently learning BitcoinSV
